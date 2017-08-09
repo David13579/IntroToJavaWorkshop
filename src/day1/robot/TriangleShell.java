@@ -22,7 +22,7 @@ public class TriangleShell {
 	
 			// 10. Turn the tortoise 6 degrees to the right
 
-	}
+}
 
 	/* 2. fill in the method below to draw a triangle. Use the length variable for the size of the triangle. */
 	private void drawTriangle(int length) {
